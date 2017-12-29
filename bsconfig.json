@@ -1,5 +1,5 @@
 {
-  "name": "reason-gof",
+  "name": "reason-react-gof",
   "bs-dependencies": ["reason-react"],
   "bs-dev-dependencies": ["bs-jest"],
   "namespace": true,

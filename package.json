@@ -1,5 +1,5 @@
 {
-  "name": "reason-gof",
+  "name": "react-reason-gof",
   "version": "0.1.0",
   "scripts": {
     "build": "bsb -make-world",
@@ -9,7 +9,10 @@
     "webpack": "webpack -w"
   },
   "keywords": [
-    "BuckleScript"
+    "BuckleScript",
+    "ReasonML",
+    "React",
+    "Reason-React"
   ],
   "author": "",
   "license": "MIT",
